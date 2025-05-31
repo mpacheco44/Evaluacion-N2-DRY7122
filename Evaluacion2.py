@@ -60,3 +60,4 @@ for i, paso in enumerate(instrucciones, 1):
     distancia = paso['distance'] / 1000
     millas = distancia * 0.621371
     print(f"{i}. {texto} ({distancia:.2f} km / {millas:.2f} millas)")
+    print("Prueba con de Sincronizacion con GitHub")
